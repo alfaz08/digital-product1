@@ -78,3 +78,26 @@ cursor: pointer;
   text-align: center;
   margin: 10px;
 }
+.service{
+  text-align: center;
+}
+.service-container{
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  background-color: aquamarine;
+}
+.box-container{
+  
+  width: 200px;
+  height: 200px;
+  box-shadow: 4px 4px 15px gray;
+  background-color: black;
+  text-align: center;
+  
+  color: white;
+ 
+}
+.icon{
+  width: 70px;
+}
