@@ -26,3 +26,44 @@ cursor: pointer;
   color: blue;
 
 }
+.banner-img{
+  
+}
+.banner-container{
+  display: flex;
+  justify-content: space-around;
+  height: 100vh;
+  align-items: center;
+  background-image: linear-gradient(to right, red , yellow);
+
+   background-repeat: no-repeat;
+    
+   
+}
+.banner-text{
+
+}
+.title{
+  font-size: 55px;
+  font-weight: bold;
+  color: whitesmoke;
+  padding: 10px;
+}
+.description{
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(24, 9, 9);
+  padding: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.btn{
+  padding: 10px;
+  margin-left: 10px;
+  background-color: yellow;
+  color: black;
+  cursor: pointer;
+}
+.btn:hover{
+  color:blue;
+}
