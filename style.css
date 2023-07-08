@@ -27,7 +27,7 @@ cursor: pointer;
 
 }
 .banner-img{
-  
+  width: 200px;
 }
 .banner-container{
   display: flex;
@@ -66,4 +66,15 @@ cursor: pointer;
 }
 .btn:hover{
   color:blue;
+}
+.about-container{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+  padding: 10px;
+  margin-left: 10px;
+}
+.about-title{
+  text-align: center;
+  margin: 10px;
 }
